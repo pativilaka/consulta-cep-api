@@ -1,0 +1,3 @@
+Logradouro: Rua Damiana da Cunha
+Bairro: Santa Teresinha CEP: 02450-010
+Cidade: São Paulo / SP
